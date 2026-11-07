@@ -1,4 +1,4 @@
-# MiniBank-ABC (Python)
+# MiniBank using Python
 
 MiniBank-ABC is a simple web-based banking simulator built with **Python, Flask, and SQLite**. It demonstrates fundamental software engineering concepts through basic banking operations.
 
